@@ -1,5 +1,16 @@
 # 💫 About Me:
-I'm a 3rd year Data science student <br>Data analyst<br>Skills :python, sql,snowflake, power bi,excel <br>Seeking internship opportunities 
+## 👋 Hey, I'm Pranav Sharma
+🚀 Data Analyst  
+
+I’m a 3rd year Data Science student solving business problems using rawdata, dashboards, and machine learning.  
+From SQL queries and automation to Power BI dashboards and predictive models.
+- 📊 Data Analytics & Visualization
+- 🐍 Python | Pandas | NumPy
+- 🗄️ SQL | Snowflake
+- 📈 Power BI | Excel
+- 🤖 Machine Learning Projects
+- 💡 Hackathons & Innovation
+Currently sharpening my skills in data analytics, data engineering.
 
 
 ## 🌐 Socials:
