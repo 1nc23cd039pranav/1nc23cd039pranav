@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ## 👋 Hey, I'm Pranav Sharma
 🚀 Data Analyst  
 
