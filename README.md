@@ -25,4 +25,4 @@ Currently sharpening my skills in data analytics, data engineering and Machine l
 
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=1nc23cd039pranav&theme=tokyonight)
-![Top Languages](https://ghstats.dev/api/languages?username=1nc23cd039pranav&theme=tokyonight&custom_title=Most%20Used%20Languages&border_radius=10)
+![Top Languages](https://ghstats.dev/api/languages?username=1nc23cd039pranav&theme=tokyonight)
