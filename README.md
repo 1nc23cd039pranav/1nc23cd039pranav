@@ -10,7 +10,7 @@ From SQL queries and automation to Power BI dashboards and predictive models.
 - 📈 Power BI | Excel
 - 🤖 Machine Learning Projects
 - 💡 Hackathons & Innovation
-Currently sharpening my skills in data analytics, data engineering.
+Currently sharpening my skills in data analytics, data engineering and Machine learning.
 
 
 ## 🌐 Socials:
