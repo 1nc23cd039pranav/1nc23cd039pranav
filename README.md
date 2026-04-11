@@ -24,4 +24,8 @@ Currently sharpening my skills in data analytics, data engineering and Machine l
 ![](https://github-readme-activity-graph.vercel.app/graph?username=1nc23cd039pranav&theme=tokyo-night)
 
 
-![GitHub Stats](https://ghstats.dev/api/card?username=1nc23cd039pranav&theme=tokyonight) ![Top Languages](https://ghstats.dev/api/languages?username=1nc23cd039pranav&theme=tokyonight)
+![GitHub Stats](https://ghstats.dev/api/card?username=1nc23cd039pranav&theme=tokyonight) 
+<div align="center">
+![GitHub Stats](https://ghstats.dev/api/card?username=1nc23cd039pranav&theme=tokyonight)
+![Top Languages](https://ghstats.dev/api/languages?username=1nc23cd039pranav&theme=tokyonight&custom_title=Most%20Used%20Languages)
+</div>
