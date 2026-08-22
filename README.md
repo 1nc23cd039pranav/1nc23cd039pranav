@@ -1,6 +1,6 @@
 # About Me:
 ## 👋 Hey, I'm Pranav Sharma
-Data Analyst | Data Science Student | ML
+Data Science Student | ML | Deep Learning | SQL | AWS
 
 I’m a final year Data Science student solving business problems using rawdata, dashboards, and machine learning.  
 From SQL queries and automation to Power BI dashboards and predictive models.
